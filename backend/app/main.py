@@ -27,7 +27,7 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "https://laudable-compassion-production-d9b7.up.railway.app",
+        "https://ahvrooms.up.railway.app",
         "http://localhost:5173",
     ],
     allow_credentials=True,
