@@ -9,7 +9,7 @@ export default defineConfig({
   ],
   preview: {
     allowedHosts: [
-      "laudable-compassion-production-d9b7.up.railway.app"
+      "ahvrooms.up.railway.app"
     ]
   }
 })
